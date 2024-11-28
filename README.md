@@ -86,7 +86,7 @@ As a Junior data analyst my task is to discover a successful marketing strategy 
   * Then I made a presentation to tell the story to the stakeholders.
     * All graphs, presentation theme and conditional formatting are color-coordinated with the color scheme of Bellabeat's website.
    
-* I'm working on visualizations in Tableau Public as well.
+* I'm working on visualizations in [Tableau Public](https://public.tableau.com/app/profile/hristina.stoycheva/vizzes) as well.
 
 *You can find all the described steps in the attached files.*
 
